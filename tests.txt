@@ -1,0 +1,13 @@
+1
+5
+30
+-1
+Day type: weekday
+Children: 1
+Adults: 1
+Seniors: 0
+Total people: 2
+Groups formed: 0
+Discount: 0.00
+Service fee: 0.00
+Total cost: 90.00

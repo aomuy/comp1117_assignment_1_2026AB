@@ -46,7 +46,7 @@ store the calculated value in cost.
 6. calculate the total price with cost*(1-discount)+service_fee and assign it to total_cost.
 
 ### Project instructions for AI
-Follow the bulletpoints below STRICTLY. 
+Follow the bulletpoints below STRICTLY when writing code. 
 1. Only use the basic types int, float, str and bool; input() and print(); conditionals if, elif and else; loops; and operators in your program. Do not use anything outside this: no lists, no dictionaries, no functions of your own, and no try and except statements.
 2. Strictly follow this file while you are implementing the code. If there are any ambigurity in the specifications or user prompt, you must ask for clarifications before proceed. Never make assumptions or invent rules. 
 3. If you think the user has written something wrong, point it out, implement anyway, add comments next to the wrong code to briefly explain what is wrong, and ask the user to correct themself. Never implement what you think is right if it is not mentioned in this file.

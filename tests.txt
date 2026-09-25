@@ -143,6 +143,7 @@ Total cost: 470.00
 52
 34
 60
+-1
 Day type: holiday
 Children: 0
 Adults: 10
@@ -152,3 +153,18 @@ Groups formed: 2
 Discount: 81.00
 Service fee: 30.00
 Total cost: 759.00
+
+7
+12
+59
+60
+-1
+Day type: weekend
+Children: 1
+Adults: 1
+Seniors: 1
+Total people: 3
+Groups formed: 0
+Discount: 0.00
+Service fee: 15.00
+Total cost: 185.00
